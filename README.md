@@ -1,2 +1,3 @@
 # Analyzing-Flow-Pattern-of-Drinks-at-Einstein-Bros-bagel
-Data Analyzing Flow Pattern of Drinks at Einstein Bros bagel
+We collected sales data for 2 weeks from counters of one of the popular American food chains - The 
+Einstein bros bagels ® at CSUEB to understand the trend of the orders at a certain time of the day and day of the week. We found that this restaurant at CSUEB was facing sales loss in their drinks segment due to the stoking-out of ice. To depict and highlight the trends we analyzed the acquired data and found the probabilities of the type of drinks that are in demand which helped us gauge the ice needed at hand and the quantum of inventory required to sustain and serve the demand at a specific point/period of the day and day of the week. This helped the restaurant maintain ideal stock level of ice and avoid sales loss in iced drinks.
